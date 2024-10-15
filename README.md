@@ -1,4 +1,4 @@
-### Hi there 👋
+### Oi, Everson aqui 👋
 Estudante de Ciência da Computação na Gran Faculdade, atualmente no 2º período, com forte interesse em desenvolvimento de Apps Mobile (Flutter) e Desenvolvimento Web. O meu interesse na programação surgiu pelo desenvolvimento de robôs para automatizar estratégias de trading e investimento. 
 
 Tenho conhecimento avançado em MQL5(MetaTrader) e conhecimento básicos com linguagens de programação como Python, C, C++,SQL além de HTML, CSS, e JavaScript.
